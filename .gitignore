@@ -6,4 +6,9 @@ __pycache__/
 .DS_Store
 *.pyc
 vscode.deb
-
+# Executáveis compilados (sem extensão, como gerados pelo gcc/clang no CS50)
+week*/cash/cash
+week*/mario/mario
+week*/credit/credit
+*.o
+*.exe
